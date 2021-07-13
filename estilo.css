@@ -1,0 +1,25 @@
+@charset "UTF-8";
+
+body{
+    background-color: rgba(0, 255, 255, 0.411);
+}
+
+h1{
+    text-decoration: underline;
+}
+
+.one{
+    display: block;
+    width: 400px;
+    flex-wrap: wrap;
+}
+.mago.one{
+    display: flex;
+}
+
+.imag{
+    border: rgb(255, 255, 255) 4px solid;
+    box-shadow: black 2px 2px 3px ;
+    width: 100%;
+
+}
